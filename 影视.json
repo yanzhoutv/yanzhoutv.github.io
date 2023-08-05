@@ -379,6 +379,23 @@
       "filterable": 0,
       "ext": "http://alist.xn--z7x900a.love:63/88看球.js"
     },
+        {
+      "key": "🅱️dr_兔小贝2",
+      "name": "🅱️兔小贝2",
+      "type": 3,
+      "api": "https://yanzhoutv.github.io/js/drpy1.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://yanzhoutv.github.io/js/兔小贝.js"
+    },
+    {
+      "key": "童趣",
+      "name": " 🅱️| 童趣",
+      "type": 3,
+      "api": "https://yanzhoutv.github.io/js/drpy1.min.js",
+      "ext": "https://yanzhoutv.github.io/js/童趣.js"
+    },
     {
       "key": "儿童口才",
       "name": " 🧒儿童｜口才",
