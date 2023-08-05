@@ -1,64 +1,64 @@
 {
-  "spider": "./jar/fty.jar;md5;18b8df1e0f7813098c1e70979a264aad",
-  "wallpaper": "http://xhww.fun:63/img.php",
-  "sites": [
+  "蜘蛛":"https://yanzhoutv.github.io/jar/fty.jar;md5;18b8df1e0f7813098c1e70979a264aad",
+  "壁纸":"http://xhww.fun:63/img.php",
+  "站点":[
     {
-      "key": "豆豆",
-      "name": "兖州影视┃软件免费┃分享给你最好的伙伴",
-      "type": 3,
-      "api": "./js/drpy1.min.js",
-      "ext": "./js/drpy.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "键":"豆豆",
+      "name": "兖州影视┃软件免费┃Q群分享给最好的伙伴",
+      "类型":3,
+      "api":"https://yanzhoutv.github.io/js/drpy1.min.js",
+      "外部":"https://yanzhoutv.github.io/js/drpy.js",
+      "可搜索":0,
+      "快速搜索":0,
+      "可过滤":0
     },
     {
-      "key": "csp_77",
-      "name": "主力源一",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "键":"csp_77",
+      "名称":"主力源一",
+      "类型":3,
+      "api":"csp_Kunyu77",
+      "可搜索":1,
+      "快速搜索":1,
+      "可更改":1
     },
         {
-      "key": "素白",
-      "name": "主力源二",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "./json/素白.json"
+      "键":"素白",
+      "名称":"主力源二",
+      "类型":3,
+      "api":"csp_XBPQ",
+      "PlayerType":"1",
+      "外部":"https://yanzhoutv.github.io/json/素白.JSON"
     },
     {
-      "key": "YQK_spider",
-      "name": "主力源三",
-      "api": "csp_YQKAPP",
-      "type": 3,
-      "filterable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": "https://hk-api-cf.yqk5659.com"
+      "键":"YQK_spider",
+      "名称":"主力源三",
+      "api":"csp_YQKAPP",
+      "类型":3,
+      "可过滤":1,
+      "PlayerType":2,
+      "快速搜索":1,
+      "可搜索":1,
+      "外部":"https://hk-api-cf.yqk5659.com"
     },
     {
-      "key": "蘑菇",
-      "name": "主力源四",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
+      "键":"蘑菇",
+      "名称":"主力源四",
+      "类型":3,
+      "api":"csp_AppYsV2",
+      "可搜索":1,
+      "快速搜索":1,
+      "可过滤":1,
+      "外部":“”
     },
     {
-      "key": "龟龟",
-      "name": "主力源五",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": {
-        "主页url": "http://www.dadagui.me/",
-        "副标题": "pic-text text-right\">&&</b>",
+      "键":"龟龟",
+      "名称":"主力源五",
+      "类型":3,
+      "api":"csp_XBPQ",
+      "PlayerType":"1",
+      "外部":{
+        "主页url":"http://www.dadagui.me/",
+        "副标题":"pic-text text-right\">&&</b>",
         "搜索模式": "1",
         "搜索url": "https://www.dadagui.me/vodsearch/{wd}-------------.html",
         "图片": "data-original=\"&&\"",
@@ -80,7 +80,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext": "./json/奇优.json"
+      "ext": "https://yanzhoutv.github.io/json/奇优.json"
     },
     {
       "key": "csp_Czsapp",
@@ -242,7 +242,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext": "./json/小刀.json"
+      "ext": "https://yanzhoutv.github.io/json/小刀.json"
     },
     {
       "key": "夜幕",
@@ -330,14 +330,14 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext": "./json/热播.json"
+      "ext": "https://yanzhoutv.github.io/json/热播.json"
     },
     {
       "key": "哔哩哔哩",
       "name": "哔站┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/哔哩.json"
+      "ext": "https://yanzhoutv.github.io/json/哔哩.json"
     },
         {
       "key": "快看资源",
@@ -379,6 +379,23 @@
       "filterable": 0,
       "ext": "http://alist.xn--z7x900a.love:63/88看球.js"
     },
+        {
+      "key": "🅱️dr_兔小贝2",
+      "name": "🅱️兔小贝2",
+      "type": 3,
+      "api": "https://yanzhoutv.github.io/js/drpy1.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://yanzhoutv.github.io/js/兔小贝.js"
+    },
+    {
+      "key": "童趣",
+      "name": " 🅱️| 童趣",
+      "type": 3,
+      "api": "https://yanzhoutv.github.io/js/drpy1.min.js",
+      "ext": "https://yanzhoutv.github.io/js/童趣.js"
+    },
     {
       "key": "儿童口才",
       "name": " 🧒儿童｜口才",
@@ -387,7 +404,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/儿童口才.json"
+      "ext": "https://yanzhoutv.github.io/json/儿童口才.json"
     },
     {
       "key": "儿童拼音",
@@ -397,7 +414,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/儿童拼音.json"
+      "ext": "https://yanzhoutv.github.io/json/儿童拼音.json"
     },
     {
       "key": "儿童识字",
@@ -407,7 +424,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/儿童识字.json"
+      "ext": "https://yanzhoutv.github.io/json/儿童识字.json"
     },
     {
       "key": "儿童思维",
@@ -417,7 +434,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/儿童思维.json"
+      "ext": "https://yanzhoutv.github.io/json/儿童思维.json"
     },
     {
       "key": "儿童英语",
@@ -427,7 +444,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/儿童英语.json"
+      "ext": "https://yanzhoutv.github.io/json/儿童英语.json"
     },
     {
       "key": "儿童硬笔",
@@ -437,7 +454,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/儿童硬笔.json"
+      "ext": "https://yanzhoutv.github.io/json/儿童硬笔.json"
     },
     {
       "key": "儿童编程",
@@ -447,7 +464,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/儿童编程.json"
+      "ext": "https://yanzhoutv.github.io/json/儿童编程.json"
     },
     {
       "key": "儿童武术",
@@ -457,7 +474,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/儿童武术.json"
+      "ext": "https://yanzhoutv.github.io/json/儿童武术.json"
     },
     {
       "key": "少儿教育",
@@ -467,7 +484,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./json/少儿教育.json"
+      "ext": "https://yanzhoutv.github.io/json/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -477,7 +494,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./json/小学课堂.json"
+      "ext": "https://yanzhoutv.github.io/json/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -487,7 +504,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./json/初中课堂.json"
+      "ext": "https://yanzhoutv.github.io/json/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -497,7 +514,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./json/高中课堂.json"
+      "ext": "https://yanzhoutv.github.io/json/高中课堂.json"
     },
     {
       "key": "小灯塔科学",
@@ -507,7 +524,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/小灯塔科学.json"
+      "ext": "https://yanzhoutv.github.io/json/小灯塔科学.json"
     },
     {
       "key": "小灯塔地理",
@@ -517,7 +534,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/小灯塔地理.json"
+      "ext": "https://yanzhoutv.github.io/json/小灯塔地理.json"
     },
     {
       "key": "小灯塔百科",
@@ -527,7 +544,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/小灯塔百科.json"
+      "ext": "https://yanzhoutv.github.io/json/小灯塔百科.json"
     },
     {
       "key": "小灯塔国学",
@@ -537,7 +554,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/小灯塔国学.json"
+      "ext": "https://yanzhoutv.github.io/json/小灯塔国学.json"
     },
     {
       "key": "csp_WoGG",
