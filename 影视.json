@@ -242,7 +242,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext": "https://yanzhoujia.github.io/json/小刀.json"
+      "ext": "https://yanzhoutv.github.io/json/小刀.json"
     },
     {
       "key": "夜幕",
@@ -330,14 +330,14 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext": "https://yanzhoujia.github.io/json/热播.json"
+      "ext": "https://yanzhoutv.github.io/json/热播.json"
     },
     {
       "key": "哔哩哔哩",
       "name": "哔站┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://yanzhoujia.github.io/json/哔哩.json"
+      "ext": "https://yanzhoutv.github.io/json/哔哩.json"
     },
         {
       "key": "快看资源",
@@ -387,7 +387,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yanzhoujia.github.io/json/儿童口才.json"
+      "ext": "https://yanzhoutv.github.io/json/儿童口才.json"
     },
     {
       "key": "儿童拼音",
@@ -397,7 +397,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yanzhoujia.github.io/json/儿童拼音.json"
+      "ext": "https://yanzhoutv.github.io/json/儿童拼音.json"
     },
     {
       "key": "儿童识字",
@@ -407,7 +407,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yanzhoujia.github.io/json/儿童识字.json"
+      "ext": "https://yanzhoutv.github.io/json/儿童识字.json"
     },
     {
       "key": "儿童思维",
@@ -417,7 +417,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yanzhoujia.github.io/json/儿童思维.json"
+      "ext": "https://yanzhoutv.github.io/json/儿童思维.json"
     },
     {
       "key": "儿童英语",
@@ -427,7 +427,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yanzhoujia.github.io/json/儿童英语.json"
+      "ext": "https://yanzhoutv.github.io/json/儿童英语.json"
     },
     {
       "key": "儿童硬笔",
@@ -437,7 +437,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yanzhoujia.github.io/json/儿童硬笔.json"
+      "ext": "https://yanzhoutv.github.io/json/儿童硬笔.json"
     },
     {
       "key": "儿童编程",
@@ -447,7 +447,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yanzhoujia.github.io/json/儿童编程.json"
+      "ext": "https://yanzhoutv.github.io/json/儿童编程.json"
     },
     {
       "key": "儿童武术",
@@ -457,7 +457,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yanzhoujia.github.io/json/儿童武术.json"
+      "ext": "https://yanzhoutv.github.io/json/儿童武术.json"
     },
     {
       "key": "少儿教育",
@@ -467,7 +467,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://yanzhoujia.github.io/json/少儿教育.json"
+      "ext": "https://yanzhoutv.github.io/json/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -477,7 +477,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://yanzhoujia.github.io/json/小学课堂.json"
+      "ext": "https://yanzhoutv.github.io/json/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -487,7 +487,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://yanzhoujia.github.io/json/初中课堂.json"
+      "ext": "https://yanzhoutv.github.io/json/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -497,7 +497,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://yanzhoujia.github.io/json/高中课堂.json"
+      "ext": "https://yanzhoutv.github.io/json/高中课堂.json"
     },
     {
       "key": "小灯塔科学",
@@ -507,7 +507,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yanzhoujia.github.io/json/小灯塔科学.json"
+      "ext": "https://yanzhoutv.github.io/json/小灯塔科学.json"
     },
     {
       "key": "小灯塔地理",
@@ -517,7 +517,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yanzhoujia.github.io/json/小灯塔地理.json"
+      "ext": "https://yanzhoutv.github.io/json/小灯塔地理.json"
     },
     {
       "key": "小灯塔百科",
@@ -527,7 +527,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yanzhoujia.github.io/json/小灯塔百科.json"
+      "ext": "https://yanzhoutv.github.io/json/小灯塔百科.json"
     },
     {
       "key": "小灯塔国学",
@@ -537,7 +537,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yanzhoujia.github.io/json/小灯塔国学.json"
+      "ext": "https://yanzhoutv.github.io/json/小灯塔国学.json"
     },
     {
       "key": "csp_WoGG",
