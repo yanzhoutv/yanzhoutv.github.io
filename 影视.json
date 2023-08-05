@@ -858,7 +858,7 @@
     {
       "name": "live2",
       "type": 0,
-      "url": "./live.json",
+      "url": "https://yanzhoutv.github.io/live.json",
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
